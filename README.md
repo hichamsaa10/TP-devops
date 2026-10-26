@@ -1,18 +1,10 @@
-TP DevOps — Gestion du code avec Git
+# TP DevOps - Git
 
-Présentation
+## Description
+Ce projet est réalisé dans le cadre du TP 1 du module DevOps.
 
-Ce projet est réalisé dans le cadre du module DevOps.
+## Objectif
+Apprendre à utiliser Git pour gérer les versions d'un projet.
 
-Objectifs
-
-Apprendre les commandes essentielles de Git.
-
-Suivre les modifications d'un projet.
-
-Utiliser les commits et les branches.
-
-Découvrir le travail collaboratif avec GitHub.
-
-Auteur
-hicham saadi
+## Auteur
+Étudiant en informatique.
