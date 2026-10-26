@@ -8,3 +8,8 @@ Apprendre à utiliser Git pour gérer les versions d'un projet.
 
 ## Auteur
 Étudiant en informatique.
+## Fonctionnalités
+
+- Programme Python principal
+- Gestion du code avec Git
+- Travail collaboratif avec GitHub
