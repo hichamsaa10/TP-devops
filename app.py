@@ -1,5 +1,6 @@
-def afficher_message():
-    print("Bonjour, bienvenue dans mon projet DevOps !")
+def main():
+    print("Bonjour !")
+    print("Mon premier projet DevOps avec Git.")
 
 if __name__ == "__main__":
-    afficher_message()
+    main()
